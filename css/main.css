@@ -1,0 +1,22 @@
+
+  body {
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  #container {
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+  }
+  
+  #square {
+    top: 50px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: blue;
+
+  }
+  
